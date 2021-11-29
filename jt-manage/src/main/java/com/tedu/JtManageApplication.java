@@ -8,6 +8,9 @@ public class JtManageApplication {
     public static void main(String[] args) {
         SpringApplication.run(JtManageApplication.class, args);
         System.out.println("你好啊fffff！");
+        System.out.println("你好啊fffff！");
+
+
     }
 
 }
